@@ -8,5 +8,5 @@
 - 📫 How to reach me:
   - [My Website](https://el-georgesw.com)
   - <a title="LinkedIn" href="https://www.linkedin.com/in/el-georgesw/">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
+       <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
      </a>
