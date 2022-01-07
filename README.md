@@ -1,6 +1,6 @@
   ### Hi there 👋
 
-- 🔭 I’m currently working on [BGFI CMA](https://github.com/El-GeorgesW/bgfi_cma)
+- 🔭 I’m currently working on [Fractal](https://github.com/El-GeorgesW/Fractal)
 - 🌱 I'm learning the advanced techniques of the NLP
 - 👯 I'm looking to collaborate on artificial brain project
 - 🤔 I’m looking for help with a neural Network approach to transistor circuit
