@@ -1,6 +1,6 @@
   ### Hi there 👋
 
-- 🔭 I’m currently working on [Fractal](https://github.com/El-GeorgesW/Fractal)
+- 🔭 I’m currently working on [Skarlet](https://github.com/El-GeorgesW/skarlet)
 - 🌱 I'm learning the advanced techniques of the NLP
 - 👯 I'm looking to collaborate on artificial brain project
 - 🤔 I’m looking for help with a neural Network approach to transistor circuit
