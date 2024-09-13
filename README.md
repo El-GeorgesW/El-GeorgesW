@@ -10,3 +10,4 @@
   - <a title="LinkedIn" href="https://www.linkedin.com/in/el-georgesw/">
        <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
      </a>
+[![roadmap.sh](https://roadmap.sh/card/tall/66e3d7514ffb3bc3b077919d?variant=dark)](https://roadmap.sh)
